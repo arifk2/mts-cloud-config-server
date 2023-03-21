@@ -1,0 +1,5 @@
+microservice:
+  user-service:
+    endpoints:
+      endpoint:
+        uri: http://USER-SERVICE/api/user-service/validateToken?token=
